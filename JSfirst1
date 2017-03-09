@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title>JAVA</title>
+<script>
+	var a = "We got This far";
+	console.log(a);
+</script>
+</head>
+<body>
+
+</body>
+</html>

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Average Day </title>
+</head>
+<style>
+ body{
+ font-family: 'Caveat Brush', cursive;
+ color: #666;
+ }
+
+ /* Structure Layout */
+
+ #pagewrap{
+ padding: 5px;
+ width: 960px;
+ margin: 20px auto;
+ }
+ header {
+ height: 100px;
+ padding: 0 15px;
+ }
+ #content{
+ width:290px;
+ float:left;
+ padding:5px 15px;
+ }
+
+#middle{
+ width:294px;
+ float:left;
+ padding:5px 15px;
+ margin:0px 5px 5px 5px;
+}
+#sidebar {
+ width: 270px;
+ padding:5px 15px;
+ float:left;
+
+}
+footer{
+ clear:both;
+ padding: 0 15px;
+}
+
+
+
+</style>
+<body>
+<div id= "pageWrap">
+	<header>
+	<h1> Tres Colum Design </h1>
+
+	<section id= "content">
+	<h2> The Content Area </h2> 
+	<p> 
+	This page will one day work, cringe now and hope it does.
+	</p>
+	</section>
+
+	<section id= "middle">
+	<h2> Middle Area </h2>
+	<p>I'm not well known but I make my self known in the subtle of ways, I speak in whispers and glare from shade. What am I?</p>
+
+	<p>How many times did I fail a class? ZERO, how many times did I cut it close? TOO MANY TIMES!  </p>
+</section>
+
+<aside id= "sidebar">
+<h2> Next Bar </h2>
+<p>I go by multipule names: Alex, Alexander, Aleks, Aleksander, Xander, Zeloet, and Allen. These are all names I go by online and a few of them in person.   </p>
+
+<p>I'm a Gamer, a Youtuber, and A Minecraft Server Owner. My Servers can vary and change almost every other week, people should be caeful before they commit alot to it. I need help even though I doubt I'll admit it in person. </p>
+
+<p>I try to play Villian lot, I make minecraft servers with evil twists and make scary/horror roleplays to terrify those whom I hang with. Everything I make has some sort of overlaying backstory often leading to me being the main antogonist. </p>
+</aside>
+
+<footer>
+<p> Footer Text
+</p>
+</footer>
+
+</div>
+</body>
+</html>
